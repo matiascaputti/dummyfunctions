@@ -1,0 +1,10 @@
+Package: dummyfunctions
+Title: Dummy functions to improve your dataset analysis
+Version: 0.0.1.9000
+Authors@R: person("Matías", "Caputti", email = "matias.caputti@gmail.com", role = c("cre"))
+Description: Dummy functions to improve your dataset analysis.
+Depends: R (>= 3.4.0)
+License: GPL-3.0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
